@@ -13,9 +13,9 @@ Então tendo em vista a crescente demanda por soluções de eficiência energét
 
 Por isso então a nossa principal proposta seria a criação de um assistente virtual integrado aos sistemas de gerenciamento de energia, responsável por centralizar o controle de geração, armazenamento e distribuição elétrica de maneira intuitiva e acessível aos gestores e colaboradores.
 
-É justamente aqui que o assistente virtual proposto pode se destacar. Integrado ao sistema de gestão de energia do edifício, ele poderia monitorar em tempo real a geração solar, indicar quando há produção excedente para armazenamento ou venda, e sugerir estratégias de consumo para maximizar o uso da energia limpa (por exemplo, acionando equipamentos durante os picos de geração solar). Dessa forma, o assistente não só facilita a adoção da energia solar, mas empodera os usuários (gestores e colaboradores) a tomarem decisões mais conscientes e sustentáveis sobre o uso da energia.
+É justamente aqui que o assistente virtual proposto pode se destacar. Integrado ao sistema de gestão de energia do edifício, ele poderia monitorar em tempo real a geração solar, indicar quando há produção excedente para armazenamento ou venda, e sugerir estratégias de consumo para maximizar o uso da energia limpa (por exemplo, acionando equipamentos durante os picos de geração solar). 
 
-O principal efeito do projeto seria trazer o PROTAGONISMO DO USUÁRIO para o gerenciamento de energia. Desta maneira fazendo com que o mesmo acabe consumindo a energia elétrica de maneira mais consciente e sustentável.
+O principal efeito do projeto seria trazer o PROTAGONISMO DO USUÁRIO para o gerenciamento de energia. Dessa forma, o assistente não só facilita a adoção da energia solar, mas empodera os usuários (gestores e colaboradores) a tomarem decisões mais conscientes e sustentáveis sobre o uso da energia.
 
 Assim trazendo benefícios ao meio ambiente a longo prazo.
 
