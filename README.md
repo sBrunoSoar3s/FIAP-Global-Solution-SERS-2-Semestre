@@ -22,6 +22,7 @@ Assim trazendo benefícios ao meio ambiente a longo prazo.
 Link do video de Apresentação da Solução:
 https://www.youtube.com/watch?v=-Og6tAHE7Yg
 
+
 Fontes:
 
 https://www.canalenergia.com.br/noticias/53317480/96-dos-brasileiros-querem-previsibilidade-no-custo-da-energia-revela-pesquisa?utm_source=chatgpt.com
