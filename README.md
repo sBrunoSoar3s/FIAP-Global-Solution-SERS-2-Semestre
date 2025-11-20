@@ -17,7 +17,10 @@ Link do video de Apresentação da Solução:
 https://www.youtube.com/watch?v=-Og6tAHE7Yg
 
 Fontes:
+
 https://www.canalenergia.com.br/noticias/53317480/96-dos-brasileiros-querem-previsibilidade-no-custo-da-energia-revela-pesquisa?utm_source=chatgpt.com
+
 https://www.ons.org.br/paginas/sobre-o-sin/o-sistema-em-numeros
+
 https://www.gov.br/secom/pt-br/assuntos/noticias/2025/janeiro/matriz-eletrica-brasileira-registra-maior-expansao-da-historia-em-2024
 
